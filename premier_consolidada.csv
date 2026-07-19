@@ -379,3 +379,384 @@ match_id,season,date,home_team_key,home_team_name,away_team_key,away_team_name,h
 20230528lw,2022-2023,2023-05-28,leicester_city,Leicester City,west_ham_united,West Ham United,2,1,H,"34, 62",79,4,3
 20230528mf,2022-2023,2023-05-28,manchester_united,Manchester United,fulham,Fulham,2,1,H,"39, 55",19,8,3
 20230528sl,2022-2023,2023-05-28,southampton,Southampton,liverpool,Liverpool,4,4,D,"19, 28, 48, 64","10, 14, 72, 73",10,8
+20230811bm,2023-2024,2023-08-11,burnley,Burnley,manchester_city,Manchester City,0,3,A,,"4, 36, 75",1,8
+20230812an,2023-2024,2023-08-12,arsenal,Arsenal,nottingham_forest,Nottingham Forest,2,1,H,"26, 32",82,7,2
+20230812aw,2023-2024,2023-08-12,afc_bournemouth,AFC Bournemouth,west_ham_united,West Ham United,1,1,D,82,51,5,3
+20230812bl,2023-2024,2023-08-12,brighton_&_hove_albion,Brighton & Hove Albion,luton_town,Luton Town,4,1,H,"36, 71, 85, 95",81,12,3
+20230812ef,2023-2024,2023-08-12,everton,Everton,fulham,Fulham,0,1,A,,73,9,2
+20230812sc,2023-2024,2023-08-12,sheffield_united,Sheffield United,crystal_palace,Crystal Palace,0,1,A,,49,1,8
+20230812na,2023-2024,2023-08-12,newcastle_united,Newcastle United,aston_villa,Aston Villa,5,1,H,"6, 16, 58, 77, 91",11,13,6
+20230813bt,2023-2024,2023-08-13,brentford,Brentford,tottenham_hotspur,Tottenham Hotspur,2,2,D,"27, 36","11, 45",6,6
+20230813cl,2023-2024,2023-08-13,chelsea,Chelsea,liverpool,Liverpool,1,1,D,37,18,4,1
+20230814mw,2023-2024,2023-08-14,manchester_united,Manchester United,wolverhampton_wanderers,Wolverhampton Wanderers,1,0,H,76,,3,6
+20230818ns,2023-2024,2023-08-18,nottingham_forest,Nottingham Forest,sheffield_united,Sheffield United,2,1,H,"3, 89",48,4,3
+20230819fb,2023-2024,2023-08-19,fulham,Fulham,brentford,Brentford,0,3,A,,"44, 66, 92",2,8
+20230819la,2023-2024,2023-08-19,liverpool,Liverpool,afc_bournemouth,AFC Bournemouth,3,1,H,"28, 36, 62",3,10,5
+20230819wb,2023-2024,2023-08-19,wolverhampton_wanderers,Wolverhampton Wanderers,brighton_&_hove_albion,Brighton & Hove Albion,1,4,A,61,"15, 46, 51, 55",5,8
+20230819tm,2023-2024,2023-08-19,tottenham_hotspur,Tottenham Hotspur,manchester_united,Manchester United,2,0,H,"49, 83",,6,6
+20230819mn,2023-2024,2023-08-19,manchester_city,Manchester City,newcastle_united,Newcastle United,1,0,H,31,,4,1
+20230820ae,2023-2024,2023-08-20,aston_villa,Aston Villa,everton,Everton,4,0,H,"18, 24, 51, 75",,7,2
+20230820wc,2023-2024,2023-08-20,west_ham_united,West Ham United,chelsea,Chelsea,3,1,H,"7, 53, 95",28,6,4
+20230821ca,2023-2024,2023-08-21,crystal_palace,Crystal Palace,arsenal,Arsenal,0,1,A,,54,2,3
+20230825cl,2023-2024,2023-08-25,chelsea,Chelsea,luton_town,Luton Town,3,0,H,"17, 68, 75",,8,1
+20230826at,2023-2024,2023-08-26,afc_bournemouth,AFC Bournemouth,tottenham_hotspur,Tottenham Hotspur,0,2,A,,"17, 63",3,6
+20230826af,2023-2024,2023-08-26,arsenal,Arsenal,fulham,Fulham,2,2,D,"70, 72","1, 87",11,3
+20230826bc,2023-2024,2023-08-26,brentford,Brentford,crystal_palace,Crystal Palace,1,1,D,18,76,1,5
+20230826ew,2023-2024,2023-08-26,everton,Everton,wolverhampton_wanderers,Wolverhampton Wanderers,0,1,A,,87,7,2
+20230826mn,2023-2024,2023-08-26,manchester_united,Manchester United,nottingham_forest,Nottingham Forest,3,2,H,"17, 52, 76","2, 4",9,4
+20230826bw,2023-2024,2023-08-26,brighton_&_hove_albion,Brighton & Hove Albion,west_ham_united,West Ham United,1,3,A,81,"19, 58, 63",10,3
+20230827ba,2023-2024,2023-08-27,burnley,Burnley,aston_villa,Aston Villa,1,3,A,47,"8, 20, 61",2,6
+20230827sm,2023-2024,2023-08-27,sheffield_united,Sheffield United,manchester_city,Manchester City,1,2,A,85,"63, 88",2,9
+20230827nl,2023-2024,2023-08-27,newcastle_united,Newcastle United,liverpool,Liverpool,1,2,A,25,"81, 93",8,4
+20230901lw,2023-2024,2023-09-01,luton_town,Luton Town,west_ham_united,West Ham United,1,2,A,92,"37, 85",1,3
+20230902se,2023-2024,2023-09-02,sheffield_united,Sheffield United,everton,Everton,2,2,D,"33, 45","14, 55",8,6
+20230902ba,2023-2024,2023-09-02,brentford,Brentford,afc_bournemouth,AFC Bournemouth,2,2,D,"7, 93","30, 77",7,5
+20230902bt,2023-2024,2023-09-02,burnley,Burnley,tottenham_hotspur,Tottenham Hotspur,2,5,A,"4, 94","16, 45, 54, 63, 66",4,10
+20230902cn,2023-2024,2023-09-02,chelsea,Chelsea,nottingham_forest,Nottingham Forest,0,1,A,,48,2,3
+20230902mf,2023-2024,2023-09-02,manchester_city,Manchester City,fulham,Fulham,5,1,H,"31, 45, 58, 70, 95",33,5,4
+20230902bn,2023-2024,2023-09-02,brighton_&_hove_albion,Brighton & Hove Albion,newcastle_united,Newcastle United,3,1,H,"27, 65, 70",92,6,2
+20230903cw,2023-2024,2023-09-03,crystal_palace,Crystal Palace,wolverhampton_wanderers,Wolverhampton Wanderers,3,2,H,"56, 78, 84","65, 96",11,4
+20230903la,2023-2024,2023-09-03,liverpool,Liverpool,aston_villa,Aston Villa,3,0,H,"3, 22, 55",,4,3
+20230903am,2023-2024,2023-09-03,arsenal,Arsenal,manchester_united,Manchester United,3,1,H,"28, 96, 101",27,5,2
+20230916wl,2023-2024,2023-09-16,wolverhampton_wanderers,Wolverhampton Wanderers,liverpool,Liverpool,1,3,A,7,"55, 85, 91",2,6
+20230916ac,2023-2024,2023-09-16,aston_villa,Aston Villa,crystal_palace,Crystal Palace,3,1,H,"87, 98, 101",47,5,3
+20230916fl,2023-2024,2023-09-16,fulham,Fulham,luton_town,Luton Town,1,0,H,65,,2,2
+20230916mb,2023-2024,2023-09-16,manchester_united,Manchester United,brighton_&_hove_albion,Brighton & Hove Albion,1,3,A,73,"20, 53, 71",4,8
+20230916ts,2023-2024,2023-09-16,tottenham_hotspur,Tottenham Hotspur,sheffield_united,Sheffield United,2,1,H,"98, 100",73,10,5
+20230916wm,2023-2024,2023-09-16,west_ham_united,West Ham United,manchester_city,Manchester City,1,3,A,36,"46, 76, 86",3,15
+20230916nb,2023-2024,2023-09-16,newcastle_united,Newcastle United,brentford,Brentford,1,0,H,64,,2,2
+20230917ac,2023-2024,2023-09-17,afc_bournemouth,AFC Bournemouth,chelsea,Chelsea,0,0,D,,,4,6
+20230917ea,2023-2024,2023-09-17,everton,Everton,arsenal,Arsenal,0,1,A,,69,1,4
+20230918nb,2023-2024,2023-09-18,nottingham_forest,Nottingham Forest,burnley,Burnley,1,1,D,61,41,4,3
+20230923cf,2023-2024,2023-09-23,crystal_palace,Crystal Palace,fulham,Fulham,0,0,D,,,3,5
+20230923lw,2023-2024,2023-09-23,luton_town,Luton Town,wolverhampton_wanderers,Wolverhampton Wanderers,1,1,D,65,50,4,3
+20230923mn,2023-2024,2023-09-23,manchester_city,Manchester City,nottingham_forest,Nottingham Forest,2,0,H,"7, 14",,4,3
+20230923be,2023-2024,2023-09-23,brentford,Brentford,everton,Everton,1,3,A,28,"6, 67, 71",2,6
+20230923bm,2023-2024,2023-09-23,burnley,Burnley,manchester_united,Manchester United,0,1,A,,45,4,4
+20230924at,2023-2024,2023-09-24,arsenal,Arsenal,tottenham_hotspur,Tottenham Hotspur,2,2,D,"26, 54","42, 55",6,5
+20230924ba,2023-2024,2023-09-24,brighton_&_hove_albion,Brighton & Hove Albion,afc_bournemouth,AFC Bournemouth,3,1,H,"45, 46, 77",25,4,4
+20230924ca,2023-2024,2023-09-24,chelsea,Chelsea,aston_villa,Aston Villa,0,1,A,,73,4,7
+20230924lw,2023-2024,2023-09-24,liverpool,Liverpool,west_ham_united,West Ham United,3,1,H,"16, 60, 85",42,7,4
+20230924sn,2023-2024,2023-09-24,sheffield_united,Sheffield United,newcastle_united,Newcastle United,0,8,A,,"21, 31, 35, 56, 61, 68, 73, 87",1,15
+20230930ab,2023-2024,2023-09-30,aston_villa,Aston Villa,brighton_&_hove_albion,Brighton & Hove Albion,6,1,H,"14, 21, 26, 65, 85, 97",50,9,3
+20230930aa,2023-2024,2023-09-30,afc_bournemouth,AFC Bournemouth,arsenal,Arsenal,0,4,A,,"17, 44, 53, 93",1,8
+20230930el,2023-2024,2023-09-30,everton,Everton,luton_town,Luton Town,1,2,A,41,"24, 31",5,2
+20230930mc,2023-2024,2023-09-30,manchester_united,Manchester United,crystal_palace,Crystal Palace,0,1,A,,25,4,2
+20230930nb,2023-2024,2023-09-30,newcastle_united,Newcastle United,burnley,Burnley,2,0,H,"14, 76",,8,2
+20230930ws,2023-2024,2023-09-30,west_ham_united,West Ham United,sheffield_united,Sheffield United,2,0,H,"24, 37",,9,2
+20230930wm,2023-2024,2023-09-30,wolverhampton_wanderers,Wolverhampton Wanderers,manchester_city,Manchester City,2,1,H,"13, 66",58,1,8
+20230930tl,2023-2024,2023-09-30,tottenham_hotspur,Tottenham Hotspur,liverpool,Liverpool,2,1,H,"36, 96",45,8,4
+20231001nb,2023-2024,2023-10-01,nottingham_forest,Nottingham Forest,brentford,Brentford,1,1,D,65,58,1,5
+20231002fc,2023-2024,2023-10-02,fulham,Fulham,chelsea,Chelsea,0,2,A,,"18, 19",3,4
+20231003lb,2023-2024,2023-10-03,luton_town,Luton Town,burnley,Burnley,1,2,A,84,"45, 85",3,4
+20231007lt,2023-2024,2023-10-07,luton_town,Luton Town,tottenham_hotspur,Tottenham Hotspur,0,1,A,,52,2,4
+20231007bc,2023-2024,2023-10-07,burnley,Burnley,chelsea,Chelsea,1,4,A,15,"42, 50, 65, 74",3,5
+20231007ea,2023-2024,2023-10-07,everton,Everton,afc_bournemouth,AFC Bournemouth,3,0,H,"8, 37, 60",,8,4
+20231007fs,2023-2024,2023-10-07,fulham,Fulham,sheffield_united,Sheffield United,3,1,H,"53, 76, 92",68,6,2
+20231007mb,2023-2024,2023-10-07,manchester_united,Manchester United,brentford,Brentford,2,1,H,"93, 97",26,8,3
+20231007cn,2023-2024,2023-10-07,crystal_palace,Crystal Palace,nottingham_forest,Nottingham Forest,0,0,D,,,2,5
+20231008bl,2023-2024,2023-10-08,brighton_&_hove_albion,Brighton & Hove Albion,liverpool,Liverpool,2,2,D,"20, 78","40, 45",3,4
+20231008wn,2023-2024,2023-10-08,west_ham_united,West Ham United,newcastle_united,Newcastle United,2,2,D,"8, 89","57, 62",3,3
+20231008wa,2023-2024,2023-10-08,wolverhampton_wanderers,Wolverhampton Wanderers,aston_villa,Aston Villa,1,1,D,53,55,3,4
+20231008am,2023-2024,2023-10-08,arsenal,Arsenal,manchester_city,Manchester City,1,0,H,86,,2,1
+20231021le,2023-2024,2023-10-21,liverpool,Liverpool,everton,Everton,2,0,H,"75, 97",,6,1
+20231021aw,2023-2024,2023-10-21,afc_bournemouth,AFC Bournemouth,wolverhampton_wanderers,Wolverhampton Wanderers,1,2,A,17,"47, 88",4,7
+20231021bb,2023-2024,2023-10-21,brentford,Brentford,burnley,Burnley,3,0,H,"25, 62, 87",,10,1
+20231021mb,2023-2024,2023-10-21,manchester_city,Manchester City,brighton_&_hove_albion,Brighton & Hove Albion,2,1,H,"7, 19",73,6,3
+20231021nc,2023-2024,2023-10-21,newcastle_united,Newcastle United,crystal_palace,Crystal Palace,4,0,H,"4, 44, 45, 66",,7,3
+20231021nl,2023-2024,2023-10-21,nottingham_forest,Nottingham Forest,luton_town,Luton Town,2,2,D,"48, 76","83, 92",8,4
+20231021ca,2023-2024,2023-10-21,chelsea,Chelsea,arsenal,Arsenal,2,2,D,"15, 48","77, 84",5,3
+20231021sm,2023-2024,2023-10-21,sheffield_united,Sheffield United,manchester_united,Manchester United,1,2,A,34,"28, 77",6,5
+20231022aw,2023-2024,2023-10-22,aston_villa,Aston Villa,west_ham_united,West Ham United,4,1,H,"30, 52, 74, 89",56,7,4
+20231023tf,2023-2024,2023-10-23,tottenham_hotspur,Tottenham Hotspur,fulham,Fulham,2,0,H,"36, 54",,5,3
+20231027ct,2023-2024,2023-10-27,crystal_palace,Crystal Palace,tottenham_hotspur,Tottenham Hotspur,1,2,A,94,"53, 66",3,1
+20231028cb,2023-2024,2023-10-28,chelsea,Chelsea,brentford,Brentford,0,2,A,,"58, 96",2,5
+20231028ab,2023-2024,2023-10-28,afc_bournemouth,AFC Bournemouth,burnley,Burnley,2,1,H,"22, 76",11,6,3
+20231028as,2023-2024,2023-10-28,arsenal,Arsenal,sheffield_united,Sheffield United,5,0,H,"28, 50, 58, 88, 96",,8,0
+20231028wn,2023-2024,2023-10-28,wolverhampton_wanderers,Wolverhampton Wanderers,newcastle_united,Newcastle United,2,2,D,"36, 71","22, 45",6,5
+20231029we,2023-2024,2023-10-29,west_ham_united,West Ham United,everton,Everton,0,1,A,,51,2,4
+20231029al,2023-2024,2023-10-29,aston_villa,Aston Villa,luton_town,Luton Town,3,1,H,"17, 49, 62",83,6,1
+20231029bf,2023-2024,2023-10-29,brighton_&_hove_albion,Brighton & Hove Albion,fulham,Fulham,1,1,D,26,65,7,5
+20231029ln,2023-2024,2023-10-29,liverpool,Liverpool,nottingham_forest,Nottingham Forest,3,0,H,"31, 35, 77",,8,1
+20231029mm,2023-2024,2023-10-29,manchester_united,Manchester United,manchester_city,Manchester City,0,3,A,,"26, 49, 80",3,10
+20231104fm,2023-2024,2023-11-04,fulham,Fulham,manchester_united,Manchester United,0,1,A,,91,3,5
+20231104bw,2023-2024,2023-11-04,brentford,Brentford,west_ham_united,West Ham United,3,2,H,"11, 55, 69","19, 26",4,2
+20231104bc,2023-2024,2023-11-04,burnley,Burnley,crystal_palace,Crystal Palace,0,2,A,,"22, 94",5,3
+20231104eb,2023-2024,2023-11-04,everton,Everton,brighton_&_hove_albion,Brighton & Hove Albion,1,1,D,7,84,4,2
+20231104ma,2023-2024,2023-11-04,manchester_city,Manchester City,afc_bournemouth,AFC Bournemouth,6,1,H,"30, 33, 37, 64, 83, 88",74,8,1
+20231104sw,2023-2024,2023-11-04,sheffield_united,Sheffield United,wolverhampton_wanderers,Wolverhampton Wanderers,2,1,H,"72, 100",89,2,3
+20231104na,2023-2024,2023-11-04,newcastle_united,Newcastle United,arsenal,Arsenal,1,0,H,64,,2,1
+20231105na,2023-2024,2023-11-05,nottingham_forest,Nottingham Forest,aston_villa,Aston Villa,2,0,H,"5, 47",,3,3
+20231105ll,2023-2024,2023-11-05,luton_town,Luton Town,liverpool,Liverpool,1,1,D,80,95,5,6
+20231106tc,2023-2024,2023-11-06,tottenham_hotspur,Tottenham Hotspur,chelsea,Chelsea,1,4,A,6,"35, 75, 94, 97",5,8
+20231111wt,2023-2024,2023-11-11,wolverhampton_wanderers,Wolverhampton Wanderers,tottenham_hotspur,Tottenham Hotspur,2,1,H,"91, 97",3,4,2
+20231111ab,2023-2024,2023-11-11,arsenal,Arsenal,burnley,Burnley,3,1,H,"45, 57, 74",54,6,5
+20231111ce,2023-2024,2023-11-11,crystal_palace,Crystal Palace,everton,Everton,2,3,A,"5, 74","1, 49, 86",4,4
+20231111ml,2023-2024,2023-11-11,manchester_united,Manchester United,luton_town,Luton Town,1,0,H,59,,4,4
+20231111an,2023-2024,2023-11-11,afc_bournemouth,AFC Bournemouth,newcastle_united,Newcastle United,2,0,H,"60, 73",,10,5
+20231112af,2023-2024,2023-11-12,aston_villa,Aston Villa,fulham,Fulham,3,1,H,"27, 42, 64",70,6,5
+20231112bs,2023-2024,2023-11-12,brighton_&_hove_albion,Brighton & Hove Albion,sheffield_united,Sheffield United,1,1,D,6,74,6,1
+20231112lb,2023-2024,2023-11-12,liverpool,Liverpool,brentford,Brentford,3,0,H,"39, 62, 74",,10,3
+20231112wn,2023-2024,2023-11-12,west_ham_united,West Ham United,nottingham_forest,Nottingham Forest,3,2,H,"3, 65, 88","44, 63",6,5
+20231112cm,2023-2024,2023-11-12,chelsea,Chelsea,manchester_city,Manchester City,4,4,D,"29, 37, 67, 95","25, 45, 47, 86",9,10
+20231125ml,2023-2024,2023-11-25,manchester_city,Manchester City,liverpool,Liverpool,1,1,D,27,80,5,3
+20231125bw,2023-2024,2023-11-25,burnley,Burnley,west_ham_united,West Ham United,1,2,A,49,"86, 91",5,3
+20231125lc,2023-2024,2023-11-25,luton_town,Luton Town,crystal_palace,Crystal Palace,2,1,H,"72, 83",74,3,8
+20231125nc,2023-2024,2023-11-25,newcastle_united,Newcastle United,chelsea,Chelsea,4,1,H,"13, 60, 61, 83",23,5,4
+20231125nb,2023-2024,2023-11-25,nottingham_forest,Nottingham Forest,brighton_&_hove_albion,Brighton & Hove Albion,2,3,A,"3, 76","26, 45, 58",5,5
+20231125sa,2023-2024,2023-11-25,sheffield_united,Sheffield United,afc_bournemouth,AFC Bournemouth,1,3,A,97,"12, 45, 51",2,11
+20231125ba,2023-2024,2023-11-25,brentford,Brentford,arsenal,Arsenal,0,1,A,,89,3,4
+20231126ta,2023-2024,2023-11-26,tottenham_hotspur,Tottenham Hotspur,aston_villa,Aston Villa,1,2,A,22,"45, 61",8,5
+20231126em,2023-2024,2023-11-26,everton,Everton,manchester_united,Manchester United,0,3,A,,"3, 56, 75",6,4
+20231127fw,2023-2024,2023-11-27,fulham,Fulham,wolverhampton_wanderers,Wolverhampton Wanderers,3,2,H,"7, 59, 94","22, 75",6,6
+20231202aw,2023-2024,2023-12-02,arsenal,Arsenal,wolverhampton_wanderers,Wolverhampton Wanderers,2,1,H,"6, 13",86,6,3
+20231202bl,2023-2024,2023-12-02,brentford,Brentford,luton_town,Luton Town,3,1,H,"49, 56, 81",76,6,1
+20231202bs,2023-2024,2023-12-02,burnley,Burnley,sheffield_united,Sheffield United,5,0,H,"1, 29, 73, 75, 80",,7,3
+20231202ne,2023-2024,2023-12-02,nottingham_forest,Nottingham Forest,everton,Everton,0,1,A,,67,2,3
+20231202nm,2023-2024,2023-12-02,newcastle_united,Newcastle United,manchester_united,Manchester United,1,0,H,55,,4,1
+20231203aa,2023-2024,2023-12-03,afc_bournemouth,AFC Bournemouth,aston_villa,Aston Villa,2,2,D,"10, 52","20, 90",7,3
+20231203cb,2023-2024,2023-12-03,chelsea,Chelsea,brighton_&_hove_albion,Brighton & Hove Albion,3,2,H,"17, 21, 65","43, 92",5,9
+20231203lf,2023-2024,2023-12-03,liverpool,Liverpool,fulham,Fulham,4,3,H,"20, 38, 87, 88","24, 45, 80",12,5
+20231203wc,2023-2024,2023-12-03,west_ham_united,West Ham United,crystal_palace,Crystal Palace,1,1,D,13,53,3,2
+20231203mt,2023-2024,2023-12-03,manchester_city,Manchester City,tottenham_hotspur,Tottenham Hotspur,3,3,D,"9, 31, 81","6, 69, 90",4,4
+20231205wb,2023-2024,2023-12-05,wolverhampton_wanderers,Wolverhampton Wanderers,burnley,Burnley,1,0,H,42,,4,3
+20231205la,2023-2024,2023-12-05,luton_town,Luton Town,arsenal,Arsenal,3,4,A,"25, 49, 57","20, 45, 60, 97",4,9
+20231206bb,2023-2024,2023-12-06,brighton_&_hove_albion,Brighton & Hove Albion,brentford,Brentford,2,1,H,"31, 52",27,7,2
+20231206ca,2023-2024,2023-12-06,crystal_palace,Crystal Palace,afc_bournemouth,AFC Bournemouth,0,2,A,,"25, 91",3,4
+20231206fn,2023-2024,2023-12-06,fulham,Fulham,nottingham_forest,Nottingham Forest,5,0,H,"30, 34, 54, 74, 86",,6,1
+20231206sl,2023-2024,2023-12-06,sheffield_united,Sheffield United,liverpool,Liverpool,0,2,A,,"37, 94",1,8
+20231206am,2023-2024,2023-12-06,aston_villa,Aston Villa,manchester_city,Manchester City,1,0,H,74,,7,2
+20231206mc,2023-2024,2023-12-06,manchester_united,Manchester United,chelsea,Chelsea,2,1,H,"19, 69",45,9,3
+20231207en,2023-2024,2023-12-07,everton,Everton,newcastle_united,Newcastle United,3,0,H,"79, 86, 96",,6,3
+20231207tw,2023-2024,2023-12-07,tottenham_hotspur,Tottenham Hotspur,west_ham_united,West Ham United,1,2,A,11,"52, 74",7,5
+20231209cl,2023-2024,2023-12-09,crystal_palace,Crystal Palace,liverpool,Liverpool,1,2,A,57,"76, 91",4,2
+20231209bb,2023-2024,2023-12-09,brighton_&_hove_albion,Brighton & Hove Albion,burnley,Burnley,1,1,D,77,45,11,3
+20231209ma,2023-2024,2023-12-09,manchester_united,Manchester United,afc_bournemouth,AFC Bournemouth,0,3,A,,"5, 68, 73",3,4
+20231209sb,2023-2024,2023-12-09,sheffield_united,Sheffield United,brentford,Brentford,1,0,H,45,,4,4
+20231209wn,2023-2024,2023-12-09,wolverhampton_wanderers,Wolverhampton Wanderers,nottingham_forest,Nottingham Forest,1,1,D,32,14,4,2
+20231209aa,2023-2024,2023-12-09,aston_villa,Aston Villa,arsenal,Arsenal,1,0,H,7,,3,5
+20231210ec,2023-2024,2023-12-10,everton,Everton,chelsea,Chelsea,2,0,H,"54, 92",,5,4
+20231210fw,2023-2024,2023-12-10,fulham,Fulham,west_ham_united,West Ham United,5,0,H,"22, 31, 41, 60, 89",,8,5
+20231210lm,2023-2024,2023-12-10,luton_town,Luton Town,manchester_city,Manchester City,1,2,A,45,"62, 65",2,6
+20231210tn,2023-2024,2023-12-10,tottenham_hotspur,Tottenham Hotspur,newcastle_united,Newcastle United,4,1,H,"26, 38, 60, 85",91,12,3
+20231215nt,2023-2024,2023-12-15,nottingham_forest,Nottingham Forest,tottenham_hotspur,Tottenham Hotspur,0,2,A,,"45, 65",1,6
+20231216cs,2023-2024,2023-12-16,chelsea,Chelsea,sheffield_united,Sheffield United,2,0,H,"54, 61",,6,1
+20231216mc,2023-2024,2023-12-16,manchester_city,Manchester City,crystal_palace,Crystal Palace,2,2,D,"24, 54","76, 95",9,2
+20231216nf,2023-2024,2023-12-16,newcastle_united,Newcastle United,fulham,Fulham,3,0,H,"57, 64, 82",,10,4
+20231216be,2023-2024,2023-12-16,burnley,Burnley,everton,Everton,0,2,A,,"19, 25",2,6
+20231217ab,2023-2024,2023-12-17,arsenal,Arsenal,brighton_&_hove_albion,Brighton & Hove Albion,2,0,H,"53, 87",,9,1
+20231217ba,2023-2024,2023-12-17,brentford,Brentford,aston_villa,Aston Villa,1,2,A,45,"77, 85",3,5
+20231217ww,2023-2024,2023-12-17,west_ham_united,West Ham United,wolverhampton_wanderers,Wolverhampton Wanderers,3,0,H,"23, 32, 74",,4,3
+20231217lm,2023-2024,2023-12-17,liverpool,Liverpool,manchester_united,Manchester United,0,0,D,,,8,1
+20231221cb,2023-2024,2023-12-21,crystal_palace,Crystal Palace,brighton_&_hove_albion,Brighton & Hove Albion,1,1,D,45,82,3,6
+20231222as,2023-2024,2023-12-22,aston_villa,Aston Villa,sheffield_united,Sheffield United,1,1,D,97,87,4,2
+20231223wm,2023-2024,2023-12-23,west_ham_united,West Ham United,manchester_united,Manchester United,2,0,H,"72, 78",,5,3
+20231223fb,2023-2024,2023-12-23,fulham,Fulham,burnley,Burnley,0,2,A,,"47, 66",5,2
+20231223ln,2023-2024,2023-12-23,luton_town,Luton Town,newcastle_united,Newcastle United,1,0,H,25,,5,2
+20231223na,2023-2024,2023-12-23,nottingham_forest,Nottingham Forest,afc_bournemouth,AFC Bournemouth,2,3,A,"47, 74","51, 58, 94",5,7
+20231223te,2023-2024,2023-12-23,tottenham_hotspur,Tottenham Hotspur,everton,Everton,2,1,H,"9, 18",82,6,8
+20231223la,2023-2024,2023-12-23,liverpool,Liverpool,arsenal,Arsenal,1,1,D,29,4,3,2
+20231224wc,2023-2024,2023-12-24,wolverhampton_wanderers,Wolverhampton Wanderers,chelsea,Chelsea,2,1,H,"51, 93",96,6,5
+20231226nn,2023-2024,2023-12-26,newcastle_united,Newcastle United,nottingham_forest,Nottingham Forest,1,3,A,23,"45, 53, 60",7,6
+20231226af,2023-2024,2023-12-26,afc_bournemouth,AFC Bournemouth,fulham,Fulham,3,0,H,"44, 62, 93",,4,3
+20231226sl,2023-2024,2023-12-26,sheffield_united,Sheffield United,luton_town,Luton Town,2,3,A,"61, 69","17, 77, 81",6,4
+20231226bl,2023-2024,2023-12-26,burnley,Burnley,liverpool,Liverpool,0,2,A,,"6, 90",0,10
+20231226ma,2023-2024,2023-12-26,manchester_united,Manchester United,aston_villa,Aston Villa,3,2,H,"59, 71, 82","21, 26",7,4
+20231227bw,2023-2024,2023-12-27,brentford,Brentford,wolverhampton_wanderers,Wolverhampton Wanderers,1,4,A,16,"13, 14, 28, 79",4,5
+20231227cc,2023-2024,2023-12-27,chelsea,Chelsea,crystal_palace,Crystal Palace,2,1,H,"13, 89",45,4,5
+20231227em,2023-2024,2023-12-27,everton,Everton,manchester_city,Manchester City,1,3,A,29,"53, 64, 86",2,9
+20231228bt,2023-2024,2023-12-28,brighton_&_hove_albion,Brighton & Hove Albion,tottenham_hotspur,Tottenham Hotspur,4,2,H,"11, 23, 63, 75","81, 85",9,3
+20231228aw,2023-2024,2023-12-28,arsenal,Arsenal,west_ham_united,West Ham United,0,2,A,,"13, 55",8,3
+20231230lc,2023-2024,2023-12-30,luton_town,Luton Town,chelsea,Chelsea,2,3,A,"80, 87","12, 37, 70",6,8
+20231230ab,2023-2024,2023-12-30,aston_villa,Aston Villa,burnley,Burnley,3,2,H,"28, 42, 89","31, 71",7,5
+20231230cb,2023-2024,2023-12-30,crystal_palace,Crystal Palace,brentford,Brentford,3,1,H,"14, 39, 58",2,6,4
+20231230ms,2023-2024,2023-12-30,manchester_city,Manchester City,sheffield_united,Sheffield United,2,0,H,"14, 61",,4,2
+20231230we,2023-2024,2023-12-30,wolverhampton_wanderers,Wolverhampton Wanderers,everton,Everton,3,0,H,"25, 53, 61",,6,0
+20231230nm,2023-2024,2023-12-30,nottingham_forest,Nottingham Forest,manchester_united,Manchester United,2,1,H,"64, 82",78,2,5
+20231231fa,2023-2024,2023-12-31,fulham,Fulham,arsenal,Arsenal,2,1,H,"29, 59",5,4,3
+20231231ta,2023-2024,2023-12-31,tottenham_hotspur,Tottenham Hotspur,afc_bournemouth,AFC Bournemouth,3,1,H,"9, 71, 80",84,6,4
+20240101ln,2023-2024,2024-01-01,liverpool,Liverpool,newcastle_united,Newcastle United,4,2,H,"49, 74, 78, 86","54, 81",15,3
+20240102wb,2023-2024,2024-01-02,west_ham_united,West Ham United,brighton_&_hove_albion,Brighton & Hove Albion,0,0,D,,,2,8
+20240112bl,2023-2024,2024-01-12,burnley,Burnley,luton_town,Luton Town,1,1,D,36,92,7,5
+20240113cf,2023-2024,2024-01-13,chelsea,Chelsea,fulham,Fulham,1,0,H,45,,3,4
+20240113nm,2023-2024,2024-01-13,newcastle_united,Newcastle United,manchester_city,Manchester City,2,3,A,"35, 37","26, 74, 91",5,11
+20240114ea,2023-2024,2024-01-14,everton,Everton,aston_villa,Aston Villa,0,0,D,,,2,5
+20240114mt,2023-2024,2024-01-14,manchester_united,Manchester United,tottenham_hotspur,Tottenham Hotspur,2,2,D,"3, 40","19, 46",2,6
+20240120ac,2023-2024,2024-01-20,arsenal,Arsenal,crystal_palace,Crystal Palace,5,0,H,"11, 37, 59, 94, 95",,6,5
+20240120bn,2023-2024,2024-01-20,brentford,Brentford,nottingham_forest,Nottingham Forest,3,2,H,"19, 58, 68","3, 65",5,3
+20240121sw,2023-2024,2024-01-21,sheffield_united,Sheffield United,west_ham_united,West Ham United,2,2,D,"44, 103","28, 79",6,5
+20240121al,2023-2024,2024-01-21,afc_bournemouth,AFC Bournemouth,liverpool,Liverpool,0,4,A,,"49, 70, 79, 93",1,7
+20240122bw,2023-2024,2024-01-22,brighton_&_hove_albion,Brighton & Hove Albion,wolverhampton_wanderers,Wolverhampton Wanderers,0,0,D,,,4,3
+20240130na,2023-2024,2024-01-30,nottingham_forest,Nottingham Forest,arsenal,Arsenal,1,2,A,89,"65, 72",3,3
+20240130fe,2023-2024,2024-01-30,fulham,Fulham,everton,Everton,0,0,D,,,6,4
+20240130lb,2023-2024,2024-01-30,luton_town,Luton Town,brighton_&_hove_albion,Brighton & Hove Albion,4,0,H,"1, 3, 42, 56",,8,2
+20240130cs,2023-2024,2024-01-30,crystal_palace,Crystal Palace,sheffield_united,Sheffield United,3,2,H,"17, 27, 67","1, 20",4,5
+20240130an,2023-2024,2024-01-30,aston_villa,Aston Villa,newcastle_united,Newcastle United,1,3,A,71,"32, 36, 52",6,5
+20240131mb,2023-2024,2024-01-31,manchester_city,Manchester City,burnley,Burnley,3,1,H,"16, 22, 46",93,4,3
+20240131tb,2023-2024,2024-01-31,tottenham_hotspur,Tottenham Hotspur,brentford,Brentford,3,2,H,"48, 49, 56","15, 67",5,5
+20240131lc,2023-2024,2024-01-31,liverpool,Liverpool,chelsea,Chelsea,4,1,H,"23, 39, 65, 79",71,13,3
+20240201wa,2023-2024,2024-02-01,west_ham_united,West Ham United,afc_bournemouth,AFC Bournemouth,1,1,D,61,3,3,4
+20240201wm,2023-2024,2024-02-01,wolverhampton_wanderers,Wolverhampton Wanderers,manchester_united,Manchester United,3,4,A,"71, 85, 95","5, 22, 75, 97",7,8
+20240203et,2023-2024,2024-02-03,everton,Everton,tottenham_hotspur,Tottenham Hotspur,2,2,D,"30, 94","4, 41",5,6
+20240203bc,2023-2024,2024-02-03,brighton_&_hove_albion,Brighton & Hove Albion,crystal_palace,Crystal Palace,4,1,H,"3, 33, 34, 85",71,6,5
+20240203bf,2023-2024,2024-02-03,burnley,Burnley,fulham,Fulham,2,2,D,"71, 91","17, 21",4,7
+20240203nl,2023-2024,2024-02-03,newcastle_united,Newcastle United,luton_town,Luton Town,4,4,D,"7, 23, 67, 73","21, 40, 59, 62",6,8
+20240203sa,2023-2024,2024-02-03,sheffield_united,Sheffield United,aston_villa,Aston Villa,0,5,A,,"12, 16, 20, 30, 47",5,10
+20240204an,2023-2024,2024-02-04,afc_bournemouth,AFC Bournemouth,nottingham_forest,Nottingham Forest,1,1,D,5,45,2,6
+20240204cw,2023-2024,2024-02-04,chelsea,Chelsea,wolverhampton_wanderers,Wolverhampton Wanderers,2,4,A,"19, 86","22, 43, 63, 82",6,7
+20240204mw,2023-2024,2024-02-04,manchester_united,Manchester United,west_ham_united,West Ham United,3,0,H,"23, 49, 84",,5,3
+20240204al,2023-2024,2024-02-04,arsenal,Arsenal,liverpool,Liverpool,3,1,H,"14, 67, 92",45,7,1
+20240205bm,2023-2024,2024-02-05,brentford,Brentford,manchester_city,Manchester City,1,3,A,21,"45, 53, 70",3,15
+20240210me,2023-2024,2024-02-10,manchester_city,Manchester City,everton,Everton,2,0,H,"71, 85",,3,1
+20240210fa,2023-2024,2024-02-10,fulham,Fulham,afc_bournemouth,AFC Bournemouth,3,1,H,"6, 36, 52",50,6,4
+20240210lb,2023-2024,2024-02-10,liverpool,Liverpool,burnley,Burnley,3,1,H,"31, 52, 79",45,10,4
+20240210ls,2023-2024,2024-02-10,luton_town,Luton Town,sheffield_united,Sheffield United,1,3,A,52,"30, 36, 72",5,3
+20240210tb,2023-2024,2024-02-10,tottenham_hotspur,Tottenham Hotspur,brighton_&_hove_albion,Brighton & Hove Albion,2,1,H,"61, 96",17,6,3
+20240210wb,2023-2024,2024-02-10,wolverhampton_wanderers,Wolverhampton Wanderers,brentford,Brentford,0,2,A,,"35, 77",5,6
+20240210nn,2023-2024,2024-02-10,nottingham_forest,Nottingham Forest,newcastle_united,Newcastle United,2,3,A,"26, 45","10, 43, 66",3,5
+20240211wa,2023-2024,2024-02-11,west_ham_united,West Ham United,arsenal,Arsenal,0,6,A,,"32, 41, 44, 45, 63, 65",1,12
+20240211am,2023-2024,2024-02-11,aston_villa,Aston Villa,manchester_united,Manchester United,1,2,A,67,"17, 86",10,5
+20240212cc,2023-2024,2024-02-12,crystal_palace,Crystal Palace,chelsea,Chelsea,1,3,A,30,"47, 91, 94",4,5
+20240217bl,2023-2024,2024-02-17,brentford,Brentford,liverpool,Liverpool,1,4,A,75,"35, 55, 68, 86",6,8
+20240217ba,2023-2024,2024-02-17,burnley,Burnley,arsenal,Arsenal,0,5,A,,"4, 41, 47, 66, 78",0,7
+20240217fa,2023-2024,2024-02-17,fulham,Fulham,aston_villa,Aston Villa,1,2,A,63,"23, 56",4,3
+20240217na,2023-2024,2024-02-17,newcastle_united,Newcastle United,afc_bournemouth,AFC Bournemouth,2,2,D,"58, 92","51, 69",5,7
+20240217nw,2023-2024,2024-02-17,nottingham_forest,Nottingham Forest,west_ham_united,West Ham United,2,0,H,"45, 94",,8,3
+20240217tw,2023-2024,2024-02-17,tottenham_hotspur,Tottenham Hotspur,wolverhampton_wanderers,Wolverhampton Wanderers,1,2,A,46,"42, 63",4,7
+20240217mc,2023-2024,2024-02-17,manchester_city,Manchester City,chelsea,Chelsea,1,1,D,83,42,5,6
+20240218sb,2023-2024,2024-02-18,sheffield_united,Sheffield United,brighton_&_hove_albion,Brighton & Hove Albion,0,5,A,,"20, 24, 75, 78, 85",1,10
+20240218lm,2023-2024,2024-02-18,luton_town,Luton Town,manchester_united,Manchester United,1,2,A,14,"1, 7",4,9
+20240219ec,2023-2024,2024-02-19,everton,Everton,crystal_palace,Crystal Palace,1,1,D,84,66,4,4
+20240220mb,2023-2024,2024-02-20,manchester_city,Manchester City,brentford,Brentford,1,0,H,71,,11,2
+20240221ll,2023-2024,2024-02-21,liverpool,Liverpool,luton_town,Luton Town,4,1,H,"56, 58, 71, 90",12,13,3
+20240224an,2023-2024,2024-02-24,aston_villa,Aston Villa,nottingham_forest,Nottingham Forest,4,2,H,"4, 29, 39, 61","45, 48",6,3
+20240224be,2023-2024,2024-02-24,brighton_&_hove_albion,Brighton & Hove Albion,everton,Everton,1,1,D,95,73,7,3
+20240224cb,2023-2024,2024-02-24,crystal_palace,Crystal Palace,burnley,Burnley,3,0,H,"68, 71, 79",,6,0
+20240224mf,2023-2024,2024-02-24,manchester_united,Manchester United,fulham,Fulham,1,2,A,89,"65, 97",9,5
+20240224am,2023-2024,2024-02-24,afc_bournemouth,AFC Bournemouth,manchester_city,Manchester City,0,1,A,,24,4,6
+20240224an,2023-2024,2024-02-24,arsenal,Arsenal,newcastle_united,Newcastle United,4,1,H,"18, 24, 65, 69",84,8,2
+20240225ws,2023-2024,2024-02-25,wolverhampton_wanderers,Wolverhampton Wanderers,sheffield_united,Sheffield United,1,0,H,30,,2,4
+20240226wb,2023-2024,2024-02-26,west_ham_united,West Ham United,brentford,Brentford,4,2,H,"5, 7, 63, 69","13, 82",6,8
+20240302bc,2023-2024,2024-03-02,brentford,Brentford,chelsea,Chelsea,2,2,D,"50, 69","35, 83",5,6
+20240302ew,2023-2024,2024-03-02,everton,Everton,west_ham_united,West Ham United,1,3,A,56,"62, 91, 95",11,5
+20240302fb,2023-2024,2024-03-02,fulham,Fulham,brighton_&_hove_albion,Brighton & Hove Albion,3,0,H,"21, 32, 91",,5,5
+20240302nw,2023-2024,2024-03-02,newcastle_united,Newcastle United,wolverhampton_wanderers,Wolverhampton Wanderers,3,0,H,"14, 33, 92",,7,3
+20240302nl,2023-2024,2024-03-02,nottingham_forest,Nottingham Forest,liverpool,Liverpool,0,1,A,,99,2,2
+20240302tc,2023-2024,2024-03-02,tottenham_hotspur,Tottenham Hotspur,crystal_palace,Crystal Palace,3,1,H,"77, 80, 88",59,6,1
+20240302la,2023-2024,2024-03-02,luton_town,Luton Town,aston_villa,Aston Villa,2,3,A,"66, 72","24, 38, 89",5,8
+20240303ba,2023-2024,2024-03-03,burnley,Burnley,afc_bournemouth,AFC Bournemouth,0,2,A,,"13, 88",6,3
+20240303mm,2023-2024,2024-03-03,manchester_city,Manchester City,manchester_united,Manchester United,3,1,H,"56, 80, 91",8,8,1
+20240304sa,2023-2024,2024-03-04,sheffield_united,Sheffield United,arsenal,Arsenal,0,6,A,,"5, 13, 15, 25, 39, 58",0,10
+20240309me,2023-2024,2024-03-09,manchester_united,Manchester United,everton,Everton,2,0,H,"12, 36",,8,6
+20240309as,2023-2024,2024-03-09,afc_bournemouth,AFC Bournemouth,sheffield_united,Sheffield United,2,2,D,"74, 91","27, 64",12,9
+20240309cl,2023-2024,2024-03-09,crystal_palace,Crystal Palace,luton_town,Luton Town,1,1,D,11,96,4,2
+20240309wf,2023-2024,2024-03-09,wolverhampton_wanderers,Wolverhampton Wanderers,fulham,Fulham,2,1,H,"52, 67",98,3,6
+20240309ab,2023-2024,2024-03-09,arsenal,Arsenal,brentford,Brentford,2,1,H,"19, 86",45,6,4
+20240310at,2023-2024,2024-03-10,aston_villa,Aston Villa,tottenham_hotspur,Tottenham Hotspur,0,4,A,,"50, 53, 91, 94",1,5
+20240310bn,2023-2024,2024-03-10,brighton_&_hove_albion,Brighton & Hove Albion,nottingham_forest,Nottingham Forest,1,0,H,29,,3,4
+20240310wb,2023-2024,2024-03-10,west_ham_united,West Ham United,burnley,Burnley,2,2,D,"46, 91","11, 45",4,4
+20240310lm,2023-2024,2024-03-10,liverpool,Liverpool,manchester_city,Manchester City,1,1,D,50,23,6,6
+20240311cn,2023-2024,2024-03-11,chelsea,Chelsea,newcastle_united,Newcastle United,3,2,H,"6, 57, 76","43, 90",8,3
+20240313al,2023-2024,2024-03-13,afc_bournemouth,AFC Bournemouth,luton_town,Luton Town,4,3,H,"50, 62, 64, 83","9, 31, 45",10,4
+20240316bb,2023-2024,2024-03-16,burnley,Burnley,brentford,Brentford,2,1,H,"10, 62",83,6,5
+20240316ln,2023-2024,2024-03-16,luton_town,Luton Town,nottingham_forest,Nottingham Forest,1,1,D,89,34,4,6
+20240316ft,2023-2024,2024-03-16,fulham,Fulham,tottenham_hotspur,Tottenham Hotspur,3,0,H,"42, 49, 61",,7,5
+20240317wa,2023-2024,2024-03-17,west_ham_united,West Ham United,aston_villa,Aston Villa,1,1,D,29,79,5,5
+20240330nw,2023-2024,2024-03-30,newcastle_united,Newcastle United,west_ham_united,West Ham United,4,3,H,"6, 77, 83, 90","21, 45, 48",9,4
+20240330ae,2023-2024,2024-03-30,afc_bournemouth,AFC Bournemouth,everton,Everton,2,1,H,"64, 91",87,4,3
+20240330cb,2023-2024,2024-03-30,chelsea,Chelsea,burnley,Burnley,2,2,D,"44, 78","47, 81",13,7
+20240330nc,2023-2024,2024-03-30,nottingham_forest,Nottingham Forest,crystal_palace,Crystal Palace,1,1,D,61,11,5,3
+20240330sf,2023-2024,2024-03-30,sheffield_united,Sheffield United,fulham,Fulham,3,3,D,"58, 68, 70","62, 86, 93",4,9
+20240330tl,2023-2024,2024-03-30,tottenham_hotspur,Tottenham Hotspur,luton_town,Luton Town,2,1,H,"51, 86",3,4,3
+20240330aw,2023-2024,2024-03-30,aston_villa,Aston Villa,wolverhampton_wanderers,Wolverhampton Wanderers,2,0,H,"36, 65",,5,3
+20240330bm,2023-2024,2024-03-30,brentford,Brentford,manchester_united,Manchester United,1,1,D,99,96,5,5
+20240331lb,2023-2024,2024-03-31,liverpool,Liverpool,brighton_&_hove_albion,Brighton & Hove Albion,2,1,H,"27, 65",2,8,3
+20240331ma,2023-2024,2024-03-31,manchester_city,Manchester City,arsenal,Arsenal,0,0,D,,,1,2
+20240402ne,2023-2024,2024-04-02,newcastle_united,Newcastle United,everton,Everton,1,1,D,15,88,6,3
+20240402nf,2023-2024,2024-04-02,nottingham_forest,Nottingham Forest,fulham,Fulham,3,1,H,"9, 19, 45",49,4,3
+20240402ac,2023-2024,2024-04-02,afc_bournemouth,AFC Bournemouth,crystal_palace,Crystal Palace,1,0,H,79,,6,2
+20240402bw,2023-2024,2024-04-02,burnley,Burnley,wolverhampton_wanderers,Wolverhampton Wanderers,1,1,D,37,45,6,2
+20240402wt,2023-2024,2024-04-02,west_ham_united,West Ham United,tottenham_hotspur,Tottenham Hotspur,1,1,D,19,5,4,4
+20240403al,2023-2024,2024-04-03,arsenal,Arsenal,luton_town,Luton Town,2,0,H,"24, 44",,4,1
+20240403bb,2023-2024,2024-04-03,brentford,Brentford,brighton_&_hove_albion,Brighton & Hove Albion,0,0,D,,,2,6
+20240403ma,2023-2024,2024-04-03,manchester_city,Manchester City,aston_villa,Aston Villa,4,1,H,"11, 45, 62, 69",20,11,3
+20240404ls,2023-2024,2024-04-04,liverpool,Liverpool,sheffield_united,Sheffield United,3,1,H,"17, 76, 90",58,9,3
+20240404cm,2023-2024,2024-04-04,chelsea,Chelsea,manchester_united,Manchester United,4,3,H,"4, 19, 100, 101","34, 39, 67",10,5
+20240406cm,2023-2024,2024-04-06,crystal_palace,Crystal Palace,manchester_city,Manchester City,2,4,A,"4, 86","13, 47, 66, 70",4,8
+20240406ab,2023-2024,2024-04-06,aston_villa,Aston Villa,brentford,Brentford,3,3,D,"38, 46, 80","59, 61, 68",3,3
+20240406eb,2023-2024,2024-04-06,everton,Everton,burnley,Burnley,1,0,H,45,,3,1
+20240406fn,2023-2024,2024-04-06,fulham,Fulham,newcastle_united,Newcastle United,0,1,A,,81,4,5
+20240406la,2023-2024,2024-04-06,luton_town,Luton Town,afc_bournemouth,AFC Bournemouth,2,1,H,"73, 90",52,9,1
+20240406ww,2023-2024,2024-04-06,wolverhampton_wanderers,Wolverhampton Wanderers,west_ham_united,West Ham United,1,2,A,33,"73, 84",7,4
+20240406ba,2023-2024,2024-04-06,brighton_&_hove_albion,Brighton & Hove Albion,arsenal,Arsenal,0,3,A,,"33, 62, 86",2,7
+20240407ml,2023-2024,2024-04-07,manchester_united,Manchester United,liverpool,Liverpool,2,2,D,"50, 67","23, 84",5,7
+20240407sc,2023-2024,2024-04-07,sheffield_united,Sheffield United,chelsea,Chelsea,2,2,D,"32, 93","11, 66",6,3
+20240407tn,2023-2024,2024-04-07,tottenham_hotspur,Tottenham Hotspur,nottingham_forest,Nottingham Forest,3,1,H,"15, 52, 58",27,7,6
+20240413nt,2023-2024,2024-04-13,newcastle_united,Newcastle United,tottenham_hotspur,Tottenham Hotspur,4,0,H,"30, 32, 51, 87",,5,2
+20240413bs,2023-2024,2024-04-13,brentford,Brentford,sheffield_united,Sheffield United,2,0,H,"63, 93",,5,2
+20240413bb,2023-2024,2024-04-13,burnley,Burnley,brighton_&_hove_albion,Brighton & Hove Albion,1,1,D,74,79,3,8
+20240413ml,2023-2024,2024-04-13,manchester_city,Manchester City,luton_town,Luton Town,5,1,H,"2, 64, 76, 87, 93",81,13,2
+20240413nw,2023-2024,2024-04-13,nottingham_forest,Nottingham Forest,wolverhampton_wanderers,Wolverhampton Wanderers,2,2,D,"45, 57","40, 62",9,4
+20240413am,2023-2024,2024-04-13,afc_bournemouth,AFC Bournemouth,manchester_united,Manchester United,2,2,D,"16, 36","31, 65",5,2
+20240414lc,2023-2024,2024-04-14,liverpool,Liverpool,crystal_palace,Crystal Palace,0,1,A,,14,6,5
+20240414wf,2023-2024,2024-04-14,west_ham_united,West Ham United,fulham,Fulham,0,2,A,,"9, 72",4,10
+20240414aa,2023-2024,2024-04-14,arsenal,Arsenal,aston_villa,Aston Villa,0,2,A,,"84, 87",4,2
+20240415ce,2023-2024,2024-04-15,chelsea,Chelsea,everton,Everton,6,0,H,"13, 18, 29, 44, 64, 90",,10,2
+20240420lb,2023-2024,2024-04-20,luton_town,Luton Town,brentford,Brentford,1,5,A,92,"24, 45, 62, 64, 86",3,9
+20240420sb,2023-2024,2024-04-20,sheffield_united,Sheffield United,burnley,Burnley,1,4,A,52,"38, 40, 58, 71",11,9
+20240420wa,2023-2024,2024-04-20,wolverhampton_wanderers,Wolverhampton Wanderers,arsenal,Arsenal,0,2,A,,"45, 95",3,9
+20240421en,2023-2024,2024-04-21,everton,Everton,nottingham_forest,Nottingham Forest,2,0,H,"29, 76",,4,3
+20240421aa,2023-2024,2024-04-21,aston_villa,Aston Villa,afc_bournemouth,AFC Bournemouth,3,1,H,"45, 57, 78",31,4,6
+20240421cw,2023-2024,2024-04-21,crystal_palace,Crystal Palace,west_ham_united,West Ham United,5,2,H,"7, 16, 20, 31, 64","40, 89",7,1
+20240421fl,2023-2024,2024-04-21,fulham,Fulham,liverpool,Liverpool,1,3,A,45,"32, 53, 72",5,7
+20240423ac,2023-2024,2024-04-23,arsenal,Arsenal,chelsea,Chelsea,5,0,H,"4, 52, 57, 65, 70",,10,1
+20240424wa,2023-2024,2024-04-24,wolverhampton_wanderers,Wolverhampton Wanderers,afc_bournemouth,AFC Bournemouth,0,1,A,,37,4,6
+20240424cn,2023-2024,2024-04-24,crystal_palace,Crystal Palace,newcastle_united,Newcastle United,2,0,H,"55, 88",,7,2
+20240424el,2023-2024,2024-04-24,everton,Everton,liverpool,Liverpool,2,0,H,"27, 58",,6,7
+20240424ms,2023-2024,2024-04-24,manchester_united,Manchester United,sheffield_united,Sheffield United,4,2,H,"42, 61, 81, 85","35, 50",13,4
+20240425bm,2023-2024,2024-04-25,brighton_&_hove_albion,Brighton & Hove Albion,manchester_city,Manchester City,0,4,A,,"17, 26, 34, 62",3,6
+20240427wl,2023-2024,2024-04-27,west_ham_united,West Ham United,liverpool,Liverpool,2,2,D,"43, 77","48, 65",8,8
+20240427fc,2023-2024,2024-04-27,fulham,Fulham,crystal_palace,Crystal Palace,1,1,D,52,87,2,4
+20240427mb,2023-2024,2024-04-27,manchester_united,Manchester United,burnley,Burnley,1,1,D,79,87,10,7
+20240427ns,2023-2024,2024-04-27,newcastle_united,Newcastle United,sheffield_united,Sheffield United,5,1,H,"26, 54, 61, 65, 72",5,7,5
+20240427wl,2023-2024,2024-04-27,wolverhampton_wanderers,Wolverhampton Wanderers,luton_town,Luton Town,2,1,H,"39, 50",80,5,6
+20240427eb,2023-2024,2024-04-27,everton,Everton,brentford,Brentford,1,0,H,60,,1,4
+20240427ac,2023-2024,2024-04-27,aston_villa,Aston Villa,chelsea,Chelsea,2,2,D,"4, 42","62, 81",4,5
+20240428ab,2023-2024,2024-04-28,afc_bournemouth,AFC Bournemouth,brighton_&_hove_albion,Brighton & Hove Albion,3,0,H,"13, 52, 87",,6,1
+20240428ta,2023-2024,2024-04-28,tottenham_hotspur,Tottenham Hotspur,arsenal,Arsenal,2,3,A,"64, 87","15, 27, 38",2,3
+20240428nm,2023-2024,2024-04-28,nottingham_forest,Nottingham Forest,manchester_city,Manchester City,0,2,A,,"32, 71",2,5
+20240502ct,2023-2024,2024-05-02,chelsea,Chelsea,tottenham_hotspur,Tottenham Hotspur,2,0,H,"24, 72",,5,3
+20240503le,2023-2024,2024-05-03,luton_town,Luton Town,everton,Everton,1,1,D,31,24,5,3
+20240504aa,2023-2024,2024-05-04,arsenal,Arsenal,afc_bournemouth,AFC Bournemouth,3,0,H,"45, 70, 97",,9,2
+20240504bf,2023-2024,2024-05-04,brentford,Brentford,fulham,Fulham,0,0,D,,,3,3
+20240504bn,2023-2024,2024-05-04,burnley,Burnley,newcastle_united,Newcastle United,1,4,A,86,"19, 35, 40, 55",5,11
+20240504sn,2023-2024,2024-05-04,sheffield_united,Sheffield United,nottingham_forest,Nottingham Forest,1,3,A,17,"27, 51, 65",5,4
+20240504mw,2023-2024,2024-05-04,manchester_city,Manchester City,wolverhampton_wanderers,Wolverhampton Wanderers,5,1,H,"12, 35, 45, 54, 85",53,12,1
+20240505ba,2023-2024,2024-05-05,brighton_&_hove_albion,Brighton & Hove Albion,aston_villa,Aston Villa,1,0,H,87,,8,1
+20240505cw,2023-2024,2024-05-05,chelsea,Chelsea,west_ham_united,West Ham United,5,0,H,"15, 30, 36, 48, 80",,14,2
+20240505lt,2023-2024,2024-05-05,liverpool,Liverpool,tottenham_hotspur,Tottenham Hotspur,4,2,H,"16, 45, 50, 59","72, 77",13,6
+20240506cm,2023-2024,2024-05-06,crystal_palace,Crystal Palace,manchester_united,Manchester United,4,0,H,"12, 40, 58, 66",,10,2
+20240511fm,2023-2024,2024-05-11,fulham,Fulham,manchester_city,Manchester City,0,4,A,,"13, 59, 71, 96",1,9
+20240511ab,2023-2024,2024-05-11,afc_bournemouth,AFC Bournemouth,brentford,Brentford,1,2,A,89,"86, 95",4,5
+20240511es,2023-2024,2024-05-11,everton,Everton,sheffield_united,Sheffield United,1,0,H,31,,6,1
+20240511nb,2023-2024,2024-05-11,newcastle_united,Newcastle United,brighton_&_hove_albion,Brighton & Hove Albion,1,1,D,45,18,7,4
+20240511tb,2023-2024,2024-05-11,tottenham_hotspur,Tottenham Hotspur,burnley,Burnley,2,1,H,"32, 82",25,9,3
+20240511wl,2023-2024,2024-05-11,west_ham_united,West Ham United,luton_town,Luton Town,3,1,H,"54, 65, 76",6,8,1
+20240511wc,2023-2024,2024-05-11,wolverhampton_wanderers,Wolverhampton Wanderers,crystal_palace,Crystal Palace,1,3,A,66,"26, 28, 73",7,3
+20240511nc,2023-2024,2024-05-11,nottingham_forest,Nottingham Forest,chelsea,Chelsea,2,3,A,"16, 74","8, 80, 82",4,5
+20240512ma,2023-2024,2024-05-12,manchester_united,Manchester United,arsenal,Arsenal,0,1,A,,20,2,5
+20240513al,2023-2024,2024-05-13,aston_villa,Aston Villa,liverpool,Liverpool,3,3,D,"12, 85, 88","2, 23, 48",5,7
+20240514tm,2023-2024,2024-05-14,tottenham_hotspur,Tottenham Hotspur,manchester_city,Manchester City,0,2,A,,"51, 91",5,5
+20240515bc,2023-2024,2024-05-15,brighton_&_hove_albion,Brighton & Hove Albion,chelsea,Chelsea,1,2,A,97,"34, 64",2,6
+20240515mn,2023-2024,2024-05-15,manchester_united,Manchester United,newcastle_united,Newcastle United,3,2,H,"31, 57, 84","49, 92",8,8
+20240519ae,2023-2024,2024-05-19,arsenal,Arsenal,everton,Everton,2,1,H,"43, 89",40,5,2
+20240519bn,2023-2024,2024-05-19,brentford,Brentford,newcastle_united,Newcastle United,2,4,A,"48, 70","21, 36, 38, 77",5,7
+20240519bm,2023-2024,2024-05-19,brighton_&_hove_albion,Brighton & Hove Albion,manchester_united,Manchester United,0,2,A,,"73, 88",3,4
+20240519bn,2023-2024,2024-05-19,burnley,Burnley,nottingham_forest,Nottingham Forest,1,2,A,72,"2, 14",3,6
+20240519ca,2023-2024,2024-05-19,chelsea,Chelsea,afc_bournemouth,AFC Bournemouth,2,1,H,"17, 48",49,6,5
+20240519ca,2023-2024,2024-05-19,crystal_palace,Crystal Palace,aston_villa,Aston Villa,5,0,H,"9, 39, 54, 63, 69",,9,2
+20240519lw,2023-2024,2024-05-19,liverpool,Liverpool,wolverhampton_wanderers,Wolverhampton Wanderers,2,0,H,"34, 40",,14,3
+20240519lf,2023-2024,2024-05-19,luton_town,Luton Town,fulham,Fulham,2,4,A,"45, 55","43, 45, 49, 69",6,7
+20240519mw,2023-2024,2024-05-19,manchester_city,Manchester City,west_ham_united,West Ham United,3,1,H,"2, 18, 59",42,12,2
+20240519st,2023-2024,2024-05-19,sheffield_united,Sheffield United,tottenham_hotspur,Tottenham Hotspur,0,3,A,,"14, 59, 65",1,9
+
